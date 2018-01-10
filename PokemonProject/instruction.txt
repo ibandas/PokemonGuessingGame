@@ -1,0 +1,21 @@
+------------------------INSTRUCTION--------------------------------
+
+Game objective: Guess the Pokemon based on hints given from attributes,
+types, abilities. The Pokemon are randomized from the list of the first generation, with no repeats.
+Note: Make sure every pokemon name is capitalized!!!
+
+If you guess the Pokemon correct, you move on to the next level. Every 3 levels, the game gets continuously harder.
+Less information about each pokemon will be given as the game gets harder.
+
+You start with 5 lives. 
+Every time you ask for a hint, you will be given a picture of the pokemon at the cost of a life. 
+
+These are your options to type if you're stuck:
+quit - Ends the game.
+hint - Gives a picture of the Pokemon at the cost of a life.
+life - Tells you how many lives you have left.
+help - Allows you to see this menu again.
+
+Type "start" to begin the game!!!
+
+------------------------INSTRUCTION--------------------------------
